@@ -150,9 +150,6 @@ smart-door-lock-system/
  │    └── smart_door_lock.ino
  ├── esp32-cam/
  │    └── telegram_camera.ino
- ├── docs/
- │    ├── wiring-diagram.png
- │    └── system-photo.jpg
  └── README.md
 ```
 
